@@ -1,0 +1,21 @@
+{
+  "name": "know_ur_note",
+  "version": "1.0.0",
+  "description": "Converts a recorded music into notes of instrument",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Audio",
+    "Processing"
+  ],
+  "author": "Sourik Dey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}
